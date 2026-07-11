@@ -1,0 +1,57 @@
+{
+  "text-shadows": {
+    "2xs": {
+      "$type": "string",
+      "$value": "0px 1px 0px rgb(0 0 0 / 0.15)",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:907",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "xs": {
+      "$type": "string",
+      "$value": "0px 1px 1px rgb(0 0 0 / 0.2)",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:908",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "sm": {
+      "$type": "string",
+      "$value": "0px 1px 0px rgb(0 0 0 / 0.075), 0px 1px 1px rgb(0 0 0 / 0.075), 0px 2px 2px rgb(0 0 0 / 0.075)",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:909",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "md": {
+      "$type": "string",
+      "$value": "0px 1px 1px rgb(0 0 0 / 0.1), 0px 1px 2px rgb(0 0 0 / 0.1), 0px 2px 4px rgb(0 0 0 / 0.1)",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:910",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "lg": {
+      "$type": "string",
+      "$value": "0px 1px 2px rgb(0 0 0 / 0.1), 0px 3px 2px rgb(0 0 0 / 0.1), 0px 4px 8px rgb(0 0 0 / 0.1)",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:911",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}

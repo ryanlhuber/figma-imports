@@ -1,0 +1,37 @@
+{
+  "aspect-ratio": {
+    "auto": {
+      "$type": "string",
+      "$value": "auto",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:920",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "square": {
+      "$type": "string",
+      "$value": "1 / 1",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:921",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "video": {
+      "$type": "string",
+      "$value": "16 / 9",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:922",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}

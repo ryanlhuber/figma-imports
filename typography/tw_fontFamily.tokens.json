@@ -1,0 +1,37 @@
+{
+  "font-family": {
+    "sans": {
+      "$type": "string",
+      "$value": "ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:923",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "serif": {
+      "$type": "string",
+      "$value": "ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:924",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "mono": {
+      "$type": "string",
+      "$value": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+      "$extensions": {
+        "com.figma.variableId": "VariableID:2:925",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}
