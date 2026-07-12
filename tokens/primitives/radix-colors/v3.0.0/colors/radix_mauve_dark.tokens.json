@@ -1,0 +1,19 @@
+{
+  "color": {
+    "mauve": {
+      "01": { "$type": "color", "$value": "#121113" },
+      "02": { "$type": "color", "$value": "#1a191b" },
+      "03": { "$type": "color", "$value": "#232225" },
+      "04": { "$type": "color", "$value": "#2b292d" },
+      "05": { "$type": "color", "$value": "#323035" },
+      "06": { "$type": "color", "$value": "#3c393f" },
+      "07": { "$type": "color", "$value": "#49474e" },
+      "08": { "$type": "color", "$value": "#625f69" },
+      "09": { "$type": "color", "$value": "#6f6d78" },
+      "10": { "$type": "color", "$value": "#7c7a85" },
+      "11": { "$type": "color", "$value": "#b5b2bc" },
+      "12": { "$type": "color", "$value": "#eeeef0" }
+    }
+  },
+  "$extensions": { "com.figma.modeName": "Dark" }
+}
