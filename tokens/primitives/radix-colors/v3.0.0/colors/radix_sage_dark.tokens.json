@@ -1,0 +1,19 @@
+{
+  "color": {
+    "sage": {
+      "01": { "$type": "color", "$value": "#101211" },
+      "02": { "$type": "color", "$value": "#171918" },
+      "03": { "$type": "color", "$value": "#202221" },
+      "04": { "$type": "color", "$value": "#272a29" },
+      "05": { "$type": "color", "$value": "#2e3130" },
+      "06": { "$type": "color", "$value": "#373b39" },
+      "07": { "$type": "color", "$value": "#444947" },
+      "08": { "$type": "color", "$value": "#5b625f" },
+      "09": { "$type": "color", "$value": "#63706b" },
+      "10": { "$type": "color", "$value": "#717d79" },
+      "11": { "$type": "color", "$value": "#adb5b2" },
+      "12": { "$type": "color", "$value": "#eceeed" }
+    }
+  },
+  "$extensions": { "com.figma.modeName": "Dark" }
+}
