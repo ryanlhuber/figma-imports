@@ -1,0 +1,19 @@
+{
+  "color": {
+    "gray": {
+      "01": { "$type": "color", "$value": "#fcfcfc" },
+      "02": { "$type": "color", "$value": "#f9f9f9" },
+      "03": { "$type": "color", "$value": "#f0f0f0" },
+      "04": { "$type": "color", "$value": "#e8e8e8" },
+      "05": { "$type": "color", "$value": "#e0e0e0" },
+      "06": { "$type": "color", "$value": "#d9d9d9" },
+      "07": { "$type": "color", "$value": "#cecece" },
+      "08": { "$type": "color", "$value": "#bbbbbb" },
+      "09": { "$type": "color", "$value": "#8d8d8d" },
+      "10": { "$type": "color", "$value": "#838383" },
+      "11": { "$type": "color", "$value": "#646464" },
+      "12": { "$type": "color", "$value": "#202020" }
+    }
+  },
+  "$extensions": { "com.figma.modeName": "Light" }
+}
